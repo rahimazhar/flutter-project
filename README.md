@@ -1,5 +1,5 @@
 # flutter-project
-In this project you see a list of pictures in home page and when we select a particular picture it opens in another page with heroanimation. 
+In this project you can see a lsit of cars avialable and you can booked any of them. 
 
 1 first, you download the extensions of Flutter and Dart in your VS Code
 2. Create a Flutter project in your VS Code
